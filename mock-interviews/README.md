@@ -8,7 +8,7 @@
 
 ## Mock Interviews
 
-During this module, instructors will conduct three mock interviews per student. This is what you will be evaluated on:
+During this module, fellows will participate in two or more mock interviews. This is what you will be evaluated on:
 
 - Ready to go:
   - You are in a location that is conducive for an interview (quiet, good internet, ability to turn camera and microphone on)
